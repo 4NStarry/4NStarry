@@ -1,0 +1,64 @@
+Chat 'ChatTitle(text="你能读取到F:\ENVIRONMENT…" with Codex, isCustom=true)' (2b080ba3-4286-4300-8360-3963d3dbd18d)
+Context:
+
+Messages: 6
+==============================================================================================================
+
+==== RestoredMessage #1 ====
+User: 
+你能读取到F:\ENVIRONMENTS\MiniGPT-4-main-evaluation这个目录吗？
+Attachments:
+Attachment Name: CustomSystemPromptAttachment
+Attachments Kind: Visible
+Attachments Source: Other / RestoredChatAttachment
+Attachments Text:
+
+
+
+kotlin.Unit
+
+==== RestoredMessage #2 ====
+Assistant: 
+
+
+kotlin.Unit
+
+==== RestoredMessage #3 ====
+User: 
+我的模型是由F:\ENVIRONMENTS\MiniGPT-4-main-evaluation\评估训练命令.txt中的４个命令依次微调、部署推理、性能评估的（性能评估共有VQA和Grunding目标定位两个任务），我现在要上传到GITHUB教导其他人使用我这个框架来训练模型，请制作一篇markdown格式的文档，写清楚模型微调与推理的步骤与过程，并在文档中告诉我应当在何处添加怎样的截图以向读者说明。
+Attachments:
+Attachment Name: CustomSystemPromptAttachment
+Attachments Kind: Visible
+Attachments Source: Other / RestoredChatAttachment
+Attachments Text:
+
+Attachment Name: Console Selection
+Attachments Kind: Visible
+Attachments Source: Other / RestoredChatAttachment
+Attachments Text:
+python demo_v2.py
+
+
+kotlin.Unit
+
+==== RestoredMessage #4 ====
+Assistant: 
+
+
+kotlin.Unit
+
+==== UserMessageImpl #5 ====
+User: 
+我的模型是由F:\ENVIRONMENTS\MiniGPT-4-main-evaluation\评估训练命令.txt中的４个命令依次微调、部署推理、性能评估的（性能评估共有VQA和Grunding目标定位两个任务），我现在要上传到GITHUB教导其他人使用我这个框架来训练模型，请制作一篇markdown格式的文档保存在F盘根目录下。写清楚模型微调与推理的步骤与过程，并在文档中告诉我应当在何处添加怎样的截图以向读者说明。
+
+kotlin.Unit
+
+==== AgentMessage #6 ====
+Assistant: 
+
+
+Tool use list:
+
+
+kotlin.Unit
+
